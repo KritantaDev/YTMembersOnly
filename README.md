@@ -1,8 +1,6 @@
-# iPhoneDevWiki-Dark
+# YTSaneChat
 
-Chrome Extension to apply a dark MediaWiki theme to the iPhoneDevWiki
-
-PRs welcome. This will not be on the chrome extension store because I am not going to pay them $5.
+Hide non member chat in youtube streams.
 
 ### Installation
 
