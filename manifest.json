@@ -2,13 +2,13 @@
   "manifest_version": 2,
 
   "name": "YTSaneChat",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Sane Stream Chat",
 
   "content_scripts": [{
     "css": ["styles.css"],
     "js": ["content.js"],
-    "matches": ["https://youtube.com/*"]
+    "matches": ["https://www.youtube.com/*"]
   }]
 
 }
