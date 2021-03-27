@@ -7,12 +7,11 @@
   "description": "Sane Stream Chat",
   "web_accessible_resources": [
     {
-      "resources": [ "styles.css", "content.js" ],
+      "resources": [ "content.js" ],
       "matches": [ "https://*.youtube.com/*" ]
     }
   ],
   "content_scripts": [{
-    "css": ["styles.css"],
     "js": ["content.js"],
     "matches": ["https://*.youtube.com/*"],
     "all_frames": true
