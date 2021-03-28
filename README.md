@@ -1,6 +1,12 @@
 # YTSaneChat
 
-Hide non member chat in youtube streams.
+Quality filter for youtube streams.
+
+### Things it does
+
+* Filters out non-member chat
+* Filters out messages >30% capital letters
+* Filters out messages that are only emojis
 
 ### Installation
 
